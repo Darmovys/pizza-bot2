@@ -1,0 +1,164 @@
+[{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d40d"
+  },
+  "imageUrl": "./static/Img/f035c7f46c0844069722f2bb3ee9f113_584x584.jpg",
+  "title": "Пепероні Фреш з перцем",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 803
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d40e"
+  },
+  "imageUrl": "./static/Img/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+  "title": "Сирна",
+  "types": [
+    0
+  ],
+  "sizes": [
+    26,
+    40
+  ],
+  "price": 245
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d40f"
+  },
+  "imageUrl": "./static/Img/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+  "title": "Курка барбекю",
+  "types": [
+    0
+  ],
+  "sizes": [
+    26,
+    40
+  ],
+  "price": 295
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d410"
+  },
+  "imageUrl": "./static/Img/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+  "title": "Кисло-солодка курка",
+  "types": [
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 275
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d411"
+  },
+  "imageUrl": "./static/Img/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Чізбургер-піца",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 415
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d412"
+  },
+  "imageUrl": "./static/Img/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+  "title": "Крейзі пепероні",
+  "types": [
+    0
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 580
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d413"
+  },
+  "imageUrl": "./static/Img/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+  "title": "Пепероні",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 675
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d414"
+  },
+  "imageUrl": "./static/Img/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+  "title": "Маргарита",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 450
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d415"
+  },
+  "imageUrl": "./static/Img/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+  "title": "Чотири сезони",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 395
+},
+{
+  "_id": {
+    "$oid": "65b7721116cfaf3569d6d416"
+  },
+  "imageUrl": "./static/Img/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+  "title": "Овочі та гриби",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 285
+}]
